@@ -16,11 +16,11 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 ## Topics
 ```
 Jenkins Tutorial
-[ ] Home
-[ ] Overview
-[ ] Installation
-[ ] Tomcat Setup
-[ ] Git Setup
+[x] Home
+[x] Overview
+[x] Installation
+[x] Tomcat Setup
+[x] Git Setup
 [ ] Maven Setup
 [ ] Configuration
 [ ] Management
